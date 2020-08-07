@@ -1,0 +1,19 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class ButtonPress : MonoBehaviour
+{
+    // Start is called before the first frame update
+    private void OnCollisionEnter(Collision collision)
+    {
+        if (collision.gameObject.tag == "Grabber")
+        {
+            if (Input.GetMouseButtonDown(0))
+            {
+                Debug.Log("Button pressed");
+            }
+
+        }
+    }
+}
