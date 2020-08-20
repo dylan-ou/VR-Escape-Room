@@ -2,3 +2,4 @@
 
 This is a virtual reality game developed in Unity. This project was developed
 for CS 440: Software Engineering 1 at the University of Illinois at Chicago.
+It was developed by me, Krystian Stanuch, Patricia Guerra, and Aakash Kotak.
