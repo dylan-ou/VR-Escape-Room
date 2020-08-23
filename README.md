@@ -36,3 +36,8 @@ made from one team member:
 >
 >This level was designed by Patricia Guera. The story is you are infected with 
 >a disease by the mad scientist and you have to solve the puzzle to find the antidote.
+
+To develop this Unity game, we relied upon the Virtual Reality Toolkit (VRTK) for Unity.
+More info on the VRTK could be found [here](https://vrtoolkit.readme.io/). Despite this, we did not
+have the resources to test this game out on an offical VR headset due to COVID-19. We opted
+to use the simulator given within the VRTK to test our game and present it to the class. 
